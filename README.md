@@ -29,7 +29,7 @@ It may need some work.
 
 ## Goals
 - Act as a vehicle for corporations and individuals to donate money they know will be used to promote the Ruby language and the open source ecosystem around it.
-- Provide educational resources to bring new developers to Ruby and assist those already in the community as they gain proficiency.
+- Provide educational resources to bring a diverse group of new developers to Ruby and assist those already in the community as they gain proficiency.
 - Allow corporations an easy avenue to provide feedback on the direction of the community and the language, in a way that doesn't bind anyone to implement their suggestions.
 - Fund organizations that do Ruby outreach and education directly to assist them in their efforts.
 - Offer members a clear and accessible method of understanding where their contributions add value and why their help is important.
@@ -65,6 +65,8 @@ Potential list of candidates for the initial board:
 - Koichi
 - Sora
 - Akira Matsuda
+- Kerri Miller
+- Sam Phippen
 
 Open voting is risky given the potential for a troll takeover; we'll need to develop safeguards and potentially allow the sitting chair to veto any candidate under certain circumstances.
 
