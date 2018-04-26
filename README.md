@@ -67,6 +67,7 @@ Potential list of candidates for the initial board:
 - Akira Matsuda
 - Kerri Miller
 - Sam Phippen
+- Eileen Uchitelle
 
 Open voting is risky given the potential for a troll takeover; we'll need to develop safeguards and potentially allow the sitting chair to veto any candidate under certain circumstances.
 
